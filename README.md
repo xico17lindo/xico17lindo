@@ -1,10 +1,6 @@
-- 👋 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 olá, eu sou o xico
+- 👀 eu estou interessado em aprender pensamento computacional
+- 🌱 eu estou aprendendo java, html e gitHub
+- 💞️ eu vou colaboarar nas aulas
+- 📫 estrar em contato comigo por @francisco17esser@gmail.com
 
-<!---
-xico17lindo/xico17lindo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
